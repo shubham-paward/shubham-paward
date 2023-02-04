@@ -24,5 +24,5 @@
 <br />
 
 
-[twitter]: https://twitter.com/ShubhamD_Pawar
-[linkedin]: www.linkedin.com/in/shubham-d-pawar
+[twitter]: http://twitter.com/ShubhamD_Pawar
+[linkedin]: http://in.linkedin.com/in/shubham-d-pawar
