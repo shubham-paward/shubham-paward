@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer!
 - 🔭 I’m currently working with Deskera, India.
-- 🔭 I mainly work on Java, Spring boot, Microservices and more
+- 🔭 I work on Java, Spring boot, Microservices and more
 
 ### Connect with me:
 
